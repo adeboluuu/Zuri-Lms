@@ -1,0 +1,11 @@
+""
+# python generated files
+__pycache__/
+
+*.pyc
+*.sqlite3
+
+#IDE specfic folders
+.vscode
+
+db.sqlite3/
